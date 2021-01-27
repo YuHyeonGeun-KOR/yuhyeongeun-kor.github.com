@@ -277,9 +277,9 @@ compress_html:
 
 # Defaults Post들에 적용될 기본 설정들
 defaults:
-  # _posts
+  _posts
   - scope:
-      path: /posts/2021-01-27.md"
+      path: /_posts/2021-01-27.md"
       type: posts
     values:
       layout: single
