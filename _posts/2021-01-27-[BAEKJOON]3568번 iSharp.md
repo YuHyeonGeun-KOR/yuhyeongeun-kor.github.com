@@ -76,9 +76,10 @@ for i in range(0,len(order)):
 위의 입력은 
 
 ```
-dsafsd adsf[]&[]**&, dsaf&&&****, dsfa**&[]&&, rfsdgf**&&[]*, dasfs;
-```
-이었고 그에 대힌 결과는 아래와 같았다. 
+dsafsd adsf[]&[]**&, dsaf&&&****, dsfa**&[]&&, rfsdgf**&&[]*, dasfs;  
+```  
+
+이었고 그에 대한 결과는 아래와 같았다. 
 
 ```
 dsafsd&&[][]** adsf;
