@@ -1,6 +1,6 @@
 ---
-title:  "실행방법과 실습환견"
-excerpt: "언어의 실행합범과 실습환겨엥 대해서 알아본다."
+title:  "Javascript 튜토리얼"
+excerpt: "자바스크립트를 처음으로 시작해 본다"
 
 categories:
   - javascript
@@ -14,7 +14,7 @@ date: 2021-04-27
 last_modified_at: 2021-04-27
 ---
 
-# BOJ 14053 : 자바스크립트 실행방법과 실습환경
+# Javascript : 자바스크립트 실행방법과 실습환경
 
 HTML을 만들고 자바스크립트를 실행하는데에는 메모장으로 파일을 만들면된다. 
 
