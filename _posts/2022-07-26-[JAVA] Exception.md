@@ -1,11 +1,11 @@
 ---
-title:  "[JAVA] 추상클래스 , 인터페이스  , Generic"
-excerpt: "JAVA의 추상클래스 , 인터페이스  , Generic 대하여"
+title:  "[JAVA] Exception"
+excerpt: "JAVA의 Exception 대하여"
 
 categories:
   - java
 tags:
-  - [java, 추상클래스 , 인터페이스  , Generic]
+  - [java, Exception]
   
 toc: true
 toc_sticky: true
